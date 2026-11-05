@@ -1,0 +1,4 @@
+## Miscellaneous Important Information
+- The experiment has different phases, and we want to see how biometric signals change over the course of each of these phases(remember that I am focusing on Heart-Rate-Variability-related measures). 
+    - Phase markers can only be found in `data-files\2.1_G1_biometrics.csv`, but are important for all the other data.
+- In `/unofficial-data-files`, you will find respiratory data. This is from the same participant, but it was not given to me officially as part of the data I'm supposed to analyze. However, respiratory rate is an extremely important measure to validate the quality of HRV data, so I will use it.
