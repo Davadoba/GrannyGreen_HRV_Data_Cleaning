@@ -7,3 +7,4 @@ Always search and reference the markdown files inside this directory before exec
 - **Always ensure observations are backed up by code cells that support said observation.** 
 - **Assumptions should always be documented**
 - **All conclusions must be documented and drawn form observations. The reasoning must also be included**
+- **Any changes to data cleaning pipelines/procedures should be documented in Cleaning-Rules-v0.md**
